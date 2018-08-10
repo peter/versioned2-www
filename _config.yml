@@ -1,8 +1,9 @@
 # Site settings
-title: Versioned - Headless CMS as a Service
+title: Versioned - Headless CMS Backend as a Service
+heading: CMS Backend as a Service
 email: info@versioned.io
 description: > # this means to ignore newlines until "baseurl:"
-  An admin UI and API backend that can deliver content faster and cheaper
+  An admin UI and API backend that deliver content faster and cheaper
   to your website and mobile apps. Supports custom content types with
   relationships, versioning, and publishing.
 baseurl: "" # the subpath of your site, e.g. /blog/
