@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   relationships, versioning, and publishing.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.versioned.io" # the base hostname & protocol for your site
-twitter_username: versioned-cms
+twitter_username: VersionedCMS
 #github_username:  versioned
 brand: Versioned
 appUrl: "https://app.versioned.io"
